@@ -1,0 +1,32 @@
+* {
+  font-size: 20px;
+}
+h1,
+a {
+  color: aqua;
+}
+h1 {
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+h2 {
+  font-family: "Merriweather";
+  font-weight: 300;
+}
+
+p {
+  line-height: 30px;
+}
+.font {
+  font-size: 30px;
+}
+#underline {
+  text-decoration: none;
+}
+img {
+  height: 300px;
+  width: 500px;
+}
